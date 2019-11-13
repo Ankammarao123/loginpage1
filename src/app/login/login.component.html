@@ -1,0 +1,10 @@
+
+<div class="container" style="width:50%">
+    <form [formGroup]="loginform">
+        <label>UserName</label>
+        <input type="text" class="form-control" formControlName="uname">
+        <label>Password</label>
+        <input type="text" class="form-control" formControlName="password"><br>
+        <button class="btn btn-success" (click)="savelogin(loginform.value)">Submit</button>
+    </form>
+</div>

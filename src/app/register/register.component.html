@@ -1,0 +1,11 @@
+<div class="container" style="width:50%">
+<form [formGroup]="registerform">
+    <label>UserName</label>
+    <input type="text" class="form-control" formControlName="uname">
+    <label>password</label>
+    <input type="text" class="form-control" formControlName="password">
+    <label>Email</label>
+    <input type="text" class="form-control" formControlName="email"><br>
+    <button class="btn btn-success" (click)="savedata(registerform.value)">Submit</button>
+</form>
+</div>

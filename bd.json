@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "uname": "ankammarao",
+      "password": "anka@1234",
+      "email": "ankamma@gmail.com"
+    },
+    {
+      "uname": "ankammarao",
+      "password": "anka@12345",
+      "email": "ankamma@gmail.com",
+      "id": 2
+    },
+    {
+      "uname": "ankamma",
+      "password": "anka@1234",
+      "email": "ankmmarao.bojja@ojas-it.com",
+      "id": 3
+    },
+    {
+      "uname": "phani",
+      "password": "phani123",
+      "email": "phani.gatta@gmail.com",
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "uname": "ankamma",
+      "password": "anka@1234"
+    },
+    {
+      "uname": "ankamma",
+      "password": "anka@1234",
+      "id": "sDCW_I1"
+    },
+    {
+      "uname": "zfsdf",
+      "password": "sdfsdfs",
+      "id": "8feO_Y5"
+    },
+    {
+      "uname": "ankamma",
+      "password": "anka@1234",
+      "id": "NUZmAXR"
+    },
+    {
+      "uname": "ankamma",
+      "password": "anka@1234",
+      "id": "Yaokye8"
+    },
+    {
+      "uname": "phani",
+      "password": "phani123",
+      "id": "BPhrXwM"
+    },
+    {
+      "uname": "phani",
+      "password": "phani123",
+      "id": "4wclAHe"
+    },
+    {
+      "uname": "phani",
+      "password": "phani123",
+      "id": "8RyRn5e"
+    },
+    {
+      "uname": "phani",
+      "password": "phani123",
+      "id": "wVfDCWf"
+    }
+  ]
+}
